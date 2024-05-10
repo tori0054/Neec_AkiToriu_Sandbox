@@ -1116,3 +1116,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.10-01.01.50:452][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2024.05.10-01.01.50:509][  0]LogViewport: Scene viewport resized to 1571x1262, mode Windowed.
 [2024.05.10-01.01.50:639][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 入力「」は空でした。
+[2024.05.10-01.03.45:092][588]LogDerivedDataCache: C:/Users/CGuser/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.114 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 661 files in 1117 folders with total size 9 MiB.
